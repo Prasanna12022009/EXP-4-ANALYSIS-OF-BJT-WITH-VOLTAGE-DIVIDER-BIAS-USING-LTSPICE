@@ -26,6 +26,9 @@ S. No.	VCC (V)	VB (V)	VE (V)	VC (V)	VBE (V)	VCE (V)	IB (µA)	IC (mA)
 
 Simulation Results :
 <img width="1518" height="302" alt="image" src="https://github.com/user-attachments/assets/35b04b27-8485-47eb-bdca-6c3770f52c1e" />
+<img width="1521" height="302" alt="image" src="https://github.com/user-attachments/assets/a6810325-4ea3-49f8-ada7-dd527bb44d68" />
+<img width="1514" height="297" alt="image" src="https://github.com/user-attachments/assets/0d3427d1-508f-4985-8a1e-7e98de73919a" />
+<img width="1509" height="302" alt="image" src="https://github.com/user-attachments/assets/5e434098-1cc8-4a99-8570-d388e1b934cb" />
 
 
 
